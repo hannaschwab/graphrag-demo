@@ -78,8 +78,8 @@ KV_NAME = 'https://your-keyvault-name.vault.azure.net/'
 
 ### 3. Run the notebook
 
-| Step | Description | When to run |
-|---|---|---|
+| Step | Description
+|---|---|
 | Step 1 | Configuration (Key Vault secrets)
 | Step 2 | Install libraries
 | Step 3 | Generate demo data → Delta Tables
